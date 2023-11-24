@@ -5,7 +5,7 @@
     margin: auto;
     margin-top: 75px;
     border-radius: 12px;
-    background-image: linear-gradient(180deg, #130754 0%, #3b2f80 100%);
+    background-image: linear-gradient(180deg, #3f27c2 0%, #020205 100%);
 }
 
 .top-bar{
@@ -36,7 +36,7 @@
     width: 78px;
     height: 78px;
     background: #ebfffc;
-    border-radius: 40px;
+    border-radius: 35px;
     cursor: pointer;
 
 }
